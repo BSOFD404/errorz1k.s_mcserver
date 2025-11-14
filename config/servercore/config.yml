@@ -1,0 +1,8 @@
+features:
+  prevent-moving-into-unloaded-chunks: true
+  xp-merge-fraction: 1
+  xp-merge-radius: 3.5
+  item-merge-radius: 3.5
+
+activation-range:
+  enabled: true
